@@ -1,0 +1,161 @@
+*{
+text-align: center;
+margin: 0px;
+font-weight: lighter;
+}
+
+html{height:100%;}
+body{min-height:100%;margin:0;padding:0;position:relative;}
+.content{padding-bottom:100px;}/* main的padding-bottom值要等于或大于footer的height值 */
+#footer{position:absolute;bottom:0;width:100%;}
+
+table{
+    border-collapse:separate;
+    border-spacing:20px 10px;
+    margin:0px auto;
+    margin-bottom: 20px;
+}
+
+.pag li{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    background-color: #F0F0F0;
+}
+.pag a{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    text-decoration: none;
+}
+/* 当前页的样式 */
+.pag li.cur{
+    background-color: #FFEDB2;
+}
+/* 可点击页的样式 */
+.pag li.clickable{
+    background-color: #D6F2FF;
+}
+
+.pag li.clickable:hover{
+    cursor: pointer;
+    background-color: #B9CBF7;
+}
+
+/*登录界面*/
+.login-card > form {
+     z-index: 4;
+     position: relative;
+     padding: 0px 25px;
+     width: 100%;
+ }
+.group {
+    position: relative;
+    margin-bottom: 30px;
+}
+.group input {
+    font-size: 14px;
+    padding: 10px 10px 10px 10px;
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #DDDDDD;
+    background: none;
+    color: black;
+}
+.registergroup {
+     position: relative;
+     margin-bottom: 30px;
+     text-align: left;
+ }
+.registergroup span{
+    display: inline-block;
+    width:70px;
+
+}
+.registergroup input{
+    font-size: 16px;
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid #DDDDDD;
+    background: none;
+    color: black;
+}
+.registergroup input:focus {
+    outline: none;
+}
+.group input:focus {
+    outline: none;
+}
+
+
+.group label {
+    /*color: rgba(255, 255, 255, 0.5);*/
+    font-size: 16px;
+    font-weight: lighter;
+    position: absolute;
+    pointer-events: none;
+    left: 10px;
+    top:16px;
+    transition: 0.2s ease all;
+}
+
+.group input:focus ~ label,
+input:valid ~ label {
+    top: -12px;
+    font-size: 14px;
+}
+
+
+.bar {
+    position: relative;
+    display: block;
+    width: 100%;
+}
+.bar:before,
+.bar:after {
+    content: '';
+    height: 2px;
+    width: 0;/*慢慢划过*/
+    position: absolute;
+    background:#337AB7;
+    transition: 0.2s ease all;
+}
+.bar:before {
+    left: 50%;
+}
+.bar:after {
+    right: 50%;
+}
+.button_base {
+    font-size: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.b01_simple_rollover {
+    color: #fff;
+    border: #737373 solid 1px;
+    padding: 6px;
+    background-color: #8d8d8d;
+}
+
+.b01_simple_rollover:hover {
+    color: #ffffff;
+    background-color: #666666;
+}
+.group input:focus ~ .bar:before,
+.group input:focus ~ .bar:after {
+    width: 50%;
+}
+
+
