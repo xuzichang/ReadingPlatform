@@ -3,7 +3,7 @@
 ## 一、功能模块设计
 
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/01.png" text-align="center" height="200"/><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/02.png" text-align="center" height="300"/>
-### 1. 用户管理
+### 1. 用户管理模块
 > *   用户注册：该模块主要提供用户注册功能。用户使用本系统需进行身份审核。游客必须先注册，将个人的信息存储到平台的数据库中，以成为平台的正式用户。未注册用户无身份认证，将无法访问平台内容。系统提供邮箱邮件方式注册。用户输入邮箱地址，系统发送包含验证码的邮件至注册邮箱。用户获取验证码后，填写完整个人信息，经系统校验通过即可注册成功，成为正式用户。
 > *  用户登录：该模块主要提供用户登录功能。用户使用个人注册的邮箱帐号和密码可登录中文阅读平台。系统对用户的帐号与密码进行校验，提供“记住密码”功能。记住密码功能通过Cookie进行设置。
 > *  用户访问控制：该模块主要提供用户访问控制功能。用户在未登录时，无法访问平台具体内容。
