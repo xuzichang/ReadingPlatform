@@ -39,7 +39,7 @@
 
 <p align="center" >首页</p>
 
-<div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="300"/></div>
+<div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="200"/></div>
 
 <p align="center" >查询结果页</p>
 
