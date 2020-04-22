@@ -43,68 +43,68 @@
 
 查询结果页
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/07.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/07.png" height="300"/>
 
 图3.2.5 题头
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/08.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/08.png" height="300"/>
 
 图3.2.6 动态
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/09.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/09.png" height="300"/>
 
 图3.2.7 文库
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/10.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/10.png" height="300"/>
 
 图3.2.8 标签搜索
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/11.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/11.png" height="300"/>
 
 图3.2.9 手气不错
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/12.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/12.png" height="300"/>
 
 图3.2.10 小说简介页
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/13.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/13.png" height="300"/>
 
 图3.2.11 小说阅读页
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/14.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/14.png" height="300"/>
 
 图3.2.12 主题贴内容
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/15.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/15.png" height="300"/>
 
 图3.2.13 发表小说
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/16.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/16.png" height="300"/>
 
 图3.2.14 编辑小说
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/17.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/17.png" height="300"/>
 
 图3.2.15 小说创建成功
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/18.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/18.png" height="300"/>
 
 图3.2.16 创建小说新章节
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/19.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/19.png" height="300"/>
 
 图3.2.17 新章节创建完毕
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/20.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/20.png" height="300"/>
 
 图3.2.18 编辑章节
 
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/21.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/21.png" height="300"/>
 
 图3.2.19 发布主题帖
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/22.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/22.png" height="300"/>
 
 图3.2.20 个人中心
 
