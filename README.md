@@ -136,7 +136,15 @@ chain.doFilter(request, response); // 传递给下一过滤器
 ```
 req.getSession().invalidate();//销毁session对象
 ```
-### 5.小说章节编辑调用WangEditor实现文本内容的输入
+
+### 5. 数据库操作。
+从源页面获取参数，编写MySQL语句，调用对应函数执行，保存执行结果到valuebean中，跳转至指定页面，指定页面再进行数据获取。
+- 数据库插入，包括贡献题头、小说发表、章节发表、主题帖发表。
+- 数据库删除，包括小说删除、小说章节删除。
+- 数据库更新，包括小说简介修改、小说章节编辑。
+- 数据库查询，包括内容浏览、编辑推荐、手气不错、个人中心。
+
+### 6.小说章节编辑调用WangEditor实现文本内容的输入
 ①	创建文本编辑器
 ```
 var E = window.wangEditor
@@ -146,7 +154,7 @@ var editor = new E('#editor')
 ```
 editor.txt.text($("#text").val());
 ```
-### 6. 主题帖发表采用markdown形式
+### 7. 主题帖发表采用markdown形式
 ```
 var testEditor;
 $(function() {
