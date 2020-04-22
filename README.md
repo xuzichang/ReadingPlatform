@@ -32,8 +32,10 @@
 <div style="text-align:center; ">
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/03.png" height="200"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/04.png" height="300"/>
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" width="750"/>
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" width="750"/>
+  
+  登录注册页
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="300"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/07.png" width="750"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/08.png" width="750"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/09.png" width="750"/>
