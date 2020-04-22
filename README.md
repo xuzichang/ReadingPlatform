@@ -39,13 +39,13 @@
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/></div>
  <p align="center" >首页</p>
  
- <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/08.png" height="200"/></div>
+ <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/08.png" height="150"/></div>
  <p align="center" >图3.2.6 动态</p>
  
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/09.png" height="300"/></div>
  <p align="center" >图3.2.7 文库</p>
  
- <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/22.png" height="200"/></div>
+ <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/22.png" height="150"/></div>
 <p align="center" >图3.2.20 个人中心</p>
 
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="150"/></div>
@@ -54,7 +54,7 @@
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/10.png" height="300"/></div>
 <p align="center" >图3.2.8 标签搜索</p>
 
-<div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/12.png" height="350"/></div>
+<div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/12.png" height="400"/></div>
 <p align="center" >图3.2.10 小说简介</p>
 
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/13.png" height="300"/></div>
@@ -69,9 +69,11 @@
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/15.png" height="300"/></div>
 <p align="center" >图3.2.13 发表小说</p>
 
-<div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/21.png" height="300"/></div>
-<p align="center" >图3.2.19 发表主题帖</p>
-
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/18.png" height="300"/></div>
 <p align="center" >图3.2.16 创建小说新章节</p>
+
+<div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/21.png" height="400"/></div>
+<p align="center" >图3.2.19 发表主题帖</p>
+
+
 
