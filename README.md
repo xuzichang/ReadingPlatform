@@ -38,10 +38,10 @@
   这一行需要居中
 
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
-</center>
+
 
 首页
-
+</center>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="300"/>
 
 查询结果页
