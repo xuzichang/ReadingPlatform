@@ -49,4 +49,12 @@
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/12.png" width="750"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/13.png" width="750"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/14.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/15.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/16.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/17.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/18.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/19.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/20.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/21.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/22.png" width="750"/>
 
