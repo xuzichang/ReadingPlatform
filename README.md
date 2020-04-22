@@ -75,5 +75,18 @@
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/21.png" height="400"/></div>
 <p align="center" >图2-14 发表主题帖</p>
 
-
-
+## 三、系统实现
+### 1. 用户注册
+```
+$.ajax({
+    url : "servlet/SendMailServlet",  //发送请求
+    type : "post",
+    data : {
+        "email" : email
+    },
+    success : function(result) {
+        sms = result;
+        document.getElementById("spInfo").innerText = sms;
+    }
+});
+```
