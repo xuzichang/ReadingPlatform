@@ -34,13 +34,10 @@
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/04.png" height="300"/>
   
   登录注册页
-  <center style="display:block">
-  这一行需要居中
-
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
-
-
-首页
+  <center >
+  <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
+  
+  首页
 </center>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="300"/>
 
