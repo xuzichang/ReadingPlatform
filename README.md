@@ -34,6 +34,9 @@
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/04.png" height="300"/>
   
   登录注册页
+  $$E=mc^2$$
+  $$sfsdsdfs$$
+  
   
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
 
