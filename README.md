@@ -39,7 +39,7 @@
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/></div>
  <p align="center" >首页</p>
  
- <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/08.png" height="150"/></div>
+ <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/08.png" height="170"/></div>
  <p align="center" >图3.2.6 动态</p>
  
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/09.png" height="300"/></div>
@@ -48,7 +48,7 @@
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/22.png" height="150"/></div>
 <p align="center" >图3.2.20 个人中心</p>
 
- <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="150"/></div>
+ <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="170"/></div>
  <p align="center" >查询结果</p>
  
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/10.png" height="300"/></div>
