@@ -1,11 +1,6 @@
 # ReadingPlatform
 中文阅读平台，部分模仿废文网。
-
- -[ReadingPlatform](#readingplatform)
-   -[一、功能模块设计](#一功能模块设计)
-   -[二、实现效果](#二实现效果)
-   -[三、系统实现](#三系统实现)
-  - [ReadingPlatform](#readingplatform)
+- [ReadingPlatform](#readingplatform)
   * [一、功能模块设计](#一功能模块设计)
   * [二、实现效果](#二实现效果)
   * [三、系统实现](#三系统实现)
