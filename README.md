@@ -32,15 +32,14 @@
 <div style="text-align:center; ">
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/03.png" height="200"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/04.png" height="300"/>
+  <p align="center" >登录注册页</p>
   
-  登录注册页
 
   <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
-  
-  首页
-<p align="center">首页</p>
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="300"/>
+<p align="center" >首页</p>
+
+<p align="center" ><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="300"/></p>
 
 查询结果页
 
