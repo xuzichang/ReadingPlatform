@@ -36,6 +36,8 @@
   登录注册页
   <center>这一行需要居中</center>
   
+  
+  
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
 
 首页
