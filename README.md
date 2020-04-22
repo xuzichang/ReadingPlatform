@@ -2,7 +2,7 @@
 中文阅读平台，部分模仿废文网。
 
 - [ReadingPlatform](#readingplatform)
-  * [一、功能模块设计](#--------)
+  * [一、功能模块设计](#功能模块设计)
     + [1. 用户管理模块](#1-------)
     + [2. 浏览模块](#2-----)
     + [3.发表模块](#3----)
@@ -11,7 +11,7 @@
     + [6. 查询模块](#6-----)
     + [7. 编辑推荐模块](#7-------)
     + [8. 手气不错模块](#8-------)
-  * [二、实现效果](#------)
+  * [二、实现效果](#实现效果)
   * [三、系统实现](#------)
     + [1. 用户注册](#1-----)
     + [2. 用户登录](#2-----)
@@ -20,9 +20,6 @@
     + [5. 数据库操作。](#5-------)
     + [6.小说章节编辑调用WangEditor实现文本内容的输入](#6--------wangeditor---------)
     + [7. 主题帖发表采用markdown形式](#7--------markdown--)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ## 一、功能模块设计
 
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/01.png" text-align="center" height="200"/><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/02.png" text-align="center" height="300"/>
