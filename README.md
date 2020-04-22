@@ -29,7 +29,8 @@
 该模块主要提供随机章节显示功能，增加用户平台体验。点击导航栏中“手气不错”，系统将随机为用户提供小说章节内容的阅读。
 
 ## 二、实现效果
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/03.png" height="200"   object-fit="cover"/>
+<div style="text-align:center; width:100px; height:40px;">
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/03.png" height="200"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/04.png" height="300"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" width="750"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" width="750"/>
@@ -49,4 +50,4 @@
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/20.png" width="750"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/21.png" width="750"/>
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/22.png" width="750"/>
-
+</div>
