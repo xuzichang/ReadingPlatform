@@ -1,6 +1,8 @@
 # ReadingPlatform
 中文阅读平台，部分模仿废文网。
 ## 一、功能模块设计
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/01.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/02.png" width="750"/>
 ### 1. 用户注册
 该模块主要提供用户注册功能。用户使用本系统需进行身份审核。游客必须先注册，将个人的信息存储到平台的数据库中，以成为平台的正式用户。未注册用户无身份认证，将无法访问平台内容。系统提供邮箱邮件方式注册。用户输入邮箱地址，系统发送包含验证码的邮件至注册邮箱。用户获取验证码后，填写完整个人信息，经系统校验通过即可注册成功，成为正式用户。
 ### 2. 用户登录
@@ -35,3 +37,17 @@
 该模块主要为用户提供文章的查询功能，用户可进行文本框输入模糊查询和标签选择查询。
 
 ## 二、实现效果
+
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/03.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/04.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/07.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/08.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/09.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/10.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/11.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/12.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/13.png" width="750"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/14.png" width="750"/>
+
