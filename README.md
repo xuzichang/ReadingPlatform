@@ -38,7 +38,7 @@
   <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
   
   首页
-<center>诶嘿</center>
+<p align="center">首页</p>
 
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="300"/>
 
