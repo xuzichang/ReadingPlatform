@@ -1,5 +1,6 @@
 # ReadingPlatform
 中文阅读平台，部分模仿废文网。
+`[TOC]` 
 ## 一、功能模块设计
 
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/01.png" text-align="center" height="200"/><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/02.png" text-align="center" height="300"/>
