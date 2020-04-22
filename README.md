@@ -2,8 +2,8 @@
 中文阅读平台，部分模仿废文网。
 ## 一、功能模块设计
 
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/01.png" align="center"/>
-<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/02.png" align="center" />
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/01.png"  height="200"/>
+<img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/02.png" height="200"/>
 
 ### 1. 用户注册
 该模块主要提供用户注册功能。用户使用本系统需进行身份审核。游客必须先注册，将个人的信息存储到平台的数据库中，以成为平台的正式用户。未注册用户无身份认证，将无法访问平台内容。系统提供邮箱邮件方式注册。用户输入邮箱地址，系统发送包含验证码的邮件至注册邮箱。用户获取验证码后，填写完整个人信息，经系统校验通过即可注册成功，成为正式用户。
