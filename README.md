@@ -92,6 +92,7 @@ $.ajax({
 });
 ```
 ②创建Toolbean配置邮件发送。
+
 ③结合数据库查询，判断注册邮箱是否已被注册，未被注册再进行邮件发送。
 ```
 if (email.equals(list.get(i).getUserId()))    flag = true; //邮箱已被注册
