@@ -34,7 +34,7 @@
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/04.png" height="300"/>
   
   登录注册页
-  <center>
+  <center style="display:inline">
   这一行需要居中
 </center>
 
