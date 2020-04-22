@@ -34,11 +34,12 @@
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/04.png" height="300"/>
   
   登录注册页
-  <center >
+
   <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
   
   首页
-</center>
+<center>诶嘿</center>
+
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="300"/>
 
 查询结果页
