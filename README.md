@@ -4,7 +4,7 @@
 
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/01.png" text-align="center" height="200"/><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/02.png" text-align="center" height="300"/>
   </div>
- <p align="center" >功能模块设计</p>
+ <p align="center" >图1-1 功能模块设计</p>
  
 ### 1. 用户管理模块
 > *   用户注册：该模块主要提供用户注册功能。用户使用本系统需进行身份审核。游客必须先注册，将个人的信息存储到平台的数据库中，以成为平台的正式用户。未注册用户无身份认证，将无法访问平台内容。系统提供邮箱邮件方式注册。用户输入邮箱地址，系统发送包含验证码的邮件至注册邮箱。用户获取验证码后，填写完整个人信息，经系统校验通过即可注册成功，成为正式用户。
@@ -34,46 +34,46 @@
 ## 二、实现效果
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/03.png" height="200"/>
   <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/04.png" height="300"/></div>
- <p align="center" >登录注册页</p>
+ <p align="center" >图2-1 登录注册页</p>
  
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/></div>
- <p align="center" >首页</p>
+ <p align="center" >图2-2 首页</p>
  
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/08.png" height="170"/></div>
- <p align="center" >图3.2.6 动态</p>
+ <p align="center" >图2-3 动态</p>
  
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/09.png" height="300"/></div>
- <p align="center" >图3.2.7 文库</p>
+ <p align="center" >图2-4 文库</p>
  
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/22.png" height="150"/></div>
-<p align="center" >图3.2.20 个人中心</p>
+<p align="center" >图2-5 个人中心</p>
 
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/06.png" height="170"/></div>
- <p align="center" >查询结果</p>
+ <p align="center" >图2-6 查询结果</p>
  
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/10.png" height="300"/></div>
-<p align="center" >图3.2.8 标签搜索</p>
+<p align="center" >图2-7 标签搜索</p>
 
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/12.png" height="400"/></div>
-<p align="center" >图3.2.10 小说简介</p>
+<p align="center" >图2-8 小说简介</p>
 
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/13.png" height="300"/></div>
-<p align="center" >图3.2.11 小说阅读</p>
+<p align="center" >图2-9 小说阅读</p>
 
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/14.png" height="150"/></div>
-<p align="center" >图3.2.12 主题贴查看</p>
+<p align="center" >图2-10 主题贴查看</p>
 
  <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/07.png" height="200"/></div>
- <p align="center" >图3.2.5 发表题头</p>
+ <p align="center" >图2-11 发表题头</p>
  
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/15.png" height="300"/></div>
-<p align="center" >图3.2.13 发表小说</p>
+<p align="center" >图2-12 发表小说</p>
 
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/18.png" height="300"/></div>
-<p align="center" >图3.2.16 创建小说新章节</p>
+<p align="center" >图2-13 创建小说新章节</p>
 
 <div align=center><img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/21.png" height="400"/></div>
-<p align="center" >图3.2.19 发表主题帖</p>
+<p align="center" >图2-14 发表主题帖</p>
 
 
 
