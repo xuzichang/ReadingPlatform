@@ -77,6 +77,7 @@
 
 ## 三、系统实现
 ### 1. 用户注册
+①发送验证码采用Ajax请求发送。
 ```
 $.ajax({
     url : "servlet/SendMailServlet",  //发送请求
@@ -89,4 +90,64 @@ $.ajax({
         document.getElementById("spInfo").innerText = sms;
     }
 });
+```
+②创建Toolbean配置邮件发送。
+③结合数据库查询，判断注册邮箱是否已被注册，未被注册再进行邮件发送。
+```
+if (email.equals(list.get(i).getUserId()))    flag = true; //邮箱已被注册
+if (!flag)  new Send()//发送邮件
+else resp.getWriter().println(s); //返回邮箱错误信息
+```
+### 2. 用户登录
+①	记住密码
+```
+// 获取是否保存密码
+String rememberme = req.getParameter("rememberme");
+
+// 判断复选框是否被选中，如果选中则返回on
+if (rememberme==null) emailCookie.setMaxAge(0); // 设置将不保存Cookie
+if (rememberme.equals("on") emailCookie.setMaxAge(7 * 24 * 60 * 60); // 设置保存Cookie的时间长度，单位为秒
+resp.addCookie(emailCookie); // 输出到客户端
+```
+②	验证用户登录信息，数据库操作。
+```
+account.equals(list.get(i).getUserId()) && password.equals(list.get(i).getPassword()
+```
+③	创建LoginUser类保存当前用户，便于后续页面获取登录用户信息。
+```
+LoginUser loginUser = new LoginUser();
+loginUser.setUserId(account);
+loginUser.setUserName(username);
+
+//记录Session相关信息
+HttpSession session = req.getSession();
+session.setAttribute("LoginUser", loginUser);
+```
+### 3. 用户访问控制
+```
+if (loginUser.getUserId()!="null"){//用户已登录
+    verifyRes = true; //校验成功
+}
+if (!verifyRes)  //判断校验结果，如果校验失败则重定向到登录页面
+chain.doFilter(request, response); // 传递给下一过滤器
+```
+### 4. 用户注销
+```
+req.getSession().invalidate();//销毁session对象
+```
+### 5.小说章节编辑调用WangEditor实现文本内容的输入
+①	创建文本编辑器
+```
+var E = window.wangEditor
+var editor = new E('#editor')
+```
+②	获取/修改/初始化文本编辑器内容，用于修改页面。
+```
+editor.txt.text($("#text").val());
+```
+### 6. 主题帖发表采用markdown形式
+```
+var testEditor;
+$(function() {
+    testEditor = editormd("test-editormd", {/*配置*/})})
 ```
