@@ -36,9 +36,9 @@
   登录注册页
   <center style="display:block">
   这一行需要居中
-</center>
 
 <img src="https://github.com/xuzichang/ReadingPlatform/blob/master/ImgForReadme/05.png" height="300"/>
+</center>
 
 首页
 
